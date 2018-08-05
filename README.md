@@ -1,12 +1,19 @@
 # Pygame Machine Learning
 Machine learning applied to Pygame games.
 
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
+
 ## Description
-This toolapplies Machine Learning to be able to play autonomously to some little Pygame games. Before the algorithm is able to play autonomously, user should train it playing a few minutes.
+This tool applies Machine Learning to be able to play autonomously to some little Pygame games. Before the algorithm is able to play autonomously, user should train it playing a few minutes.
 Here, you can see an example of the algorithm playing to the currently implemented games:
 * Pong (Trained with 1600 rows of data)
   
-  Left player is controlled by IA.
+  Left player is controlled by IA. Right player is an algorithmic player that only compares paddle position with ball position
 
 ![Pong game](examples/pong1600.gif)
 
