@@ -6,7 +6,7 @@ Machine learning applied to Pygame games.
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/unmonoqueteclea/pygame-ML/blob/master/LICENSE)
 
-This and more projects on [](https://unmonoqueteclea.github.io)
+This and more projects on [my blog](https://unmonoqueteclea.github.io)
 
 
 ## Description
