@@ -12,13 +12,13 @@ More projects on [my blog](https://unmonoqueteclea.github.io)
 ## Description
 This tool applies Machine Learning to play autonomously to some little Pygame games. Before the algorithm is able to play autonomously, user should train it playing a few minutes to each game.
 Here, you can see an example of the algorithm playing to the currently implemented games:
-* Pong: Trained with 1600 rows of data
+* **Pong**: Trained with 1600 rows of data
   * Left player is controlled by IA. 
   * Right player is an algorithmic player that only compares paddle position with ball position
 
 ![Pong game](examples/pong1600.gif)
 
-* Racing Game: Trained with 16000 rows of data
+* **Racing Game**: Trained with 16000 rows of data
 
 ![Pong game](examples/racing16000.gif)
 
