@@ -52,8 +52,8 @@ python main.py
 ```
 * If using BigML engine, put your username and API key in **config.py** file.
 * Choose a game and train it. Needed training time depends on the game:
-    * Pong - Between 500 and 2500 rows is OK
-    * Racing - Between 5000 and 30000 rows is OK
+    * **Pong** - Between 500 and 2500 rows is OK
+    * **Racing** - Between 5000 and 30000 rows is OK
 
 * After playing it, press **(q)** to stop playing and start creating and training the model
   
